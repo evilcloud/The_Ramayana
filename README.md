@@ -9,3 +9,7 @@ Attention: in order to keep flexibility, no preloading of the old items is prese
 1. Merge all files into one
 2. Load each chapter individually (in descending order) and run `MATCH (n) RETURN n` before each new load
 
+Approximate current state of affairs:
+![](media/ex-graph.png)
+
+_Work in progress_
