@@ -1,6 +1,6 @@
 # The Ramayana -- the graph
 
-![](media/MOSHED-2020-9-14-14-47-23.gif)
+![](media/MOSHED-2020-9-14-15-5-41.jpg)
 A graph with the full consideration of every mentioned character, location and event in the Ramayana. The source is represented in a set of commands in [Cypher](https://www.opencypher.org/) and is split by chapters in the book.
 
 Attention: in order to keep flexibility, no preloading of the old items is present and only new characters are defined in each chapter. There are two ways to make it work:
